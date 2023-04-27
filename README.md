@@ -2,3 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AniAtWork&label=Profile%20views&color=red&style=flat-square" /> </p>
 
+<details open>
+  <summary><h3>My Stats</h3></summary>
+        <p align="center">
+          <a href="https://github.com/AniAtWork/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AniAtWork&show_icons=true&theme=tokyonight&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AniAtWork&theme=tokyonight&hide_border=true&mode=weekly" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
