@@ -8,8 +8,8 @@
 
 <p align="left"> 
   
-  <a href="https://www.golang.com/en/">
-    <img alt="Golang" src="https://img.shields.io/badge/Golang-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="https://www.golang.org/">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
   &emsp;
   <a href=""> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 &emsp;
@@ -19,10 +19,12 @@
 
 ### Frameworks
 <p align="left"> 
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Gin" src="https://img.shields.io/badge/Gin-02569B?style=for-the-badge">
-   </a>
-  &emsp; 
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img alt="Gin" src="https://img.shields.io/badge/Gin-02569B?style=for-the-badge"></a>
+  &emsp;
+  <a href="https://codeigniter.com/" target="_blank">
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  </a>
 </p>
 
 ### Databases & Cloud Hosting
