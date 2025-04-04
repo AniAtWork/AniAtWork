@@ -1,63 +1,47 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ysabeau&pause=1000&color=a42e37&background=FFFFFF00&multiline=true&width=435&lines=Hi%2C+Welcome+to+AniAtWork+!" alt="Typing SVG" /></a>
+<h1 align="center">Hi, Welcome to AniAtWork! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AniAtWork&label=Profile%20views&color=red&style=flat-square" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AniAtWork&label=Profile%20views&color=red&style=flat-square" />
+</p>
 
 ## 🛠️ My Skills
 
-### Programming languages
-
-<p align="left"> 
-  
-  <a href="https://www.golang.org/">
-    <img alt="Golang" src="https://img.shields.io/badge/Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
-  &emsp;
-  <a href=""> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-&emsp;
-<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  
-</p>
-
-### Frameworks
-<p align="left"> 
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img alt="Gin" src="https://img.shields.io/badge/Gin-02569B?style=for-the-badge"></a>
-  &emsp;
-  <a href="https://codeigniter.com/" target="_blank">
-    <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  </a>
-</p>
-
-### Databases & Cloud Hosting
+### 🚀 Programming Languages
 <p align="left">
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    &emsp;
-    <a href="https://www.bitbucket.com"><img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
- </p>
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
- ### Software & Tools
- 
-<p>
-  
-  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-  &emsp;
+### 📌 Frameworks & Libraries
+<p align="left">
+    <img alt="Chi" src="https://img.shields.io/badge/Chi-02569B?style=for-the-badge"/>
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+    <img alt="pgx" src="https://img.shields.io/badge/pgx-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="Golang Mock" src="https://img.shields.io/badge/Golang_Mock-29BEB0?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 
-<details>
-  <summary><h3>My Stats 📈</h3></summary>
-        <p align="center">
-          <a href="https://github.com/AniAtWork/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AniAtWork&show_icons=true&theme=tokyonight&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AniAtWork&theme=tokyonight&hide_border=true&mode=weekly" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+### 💾 Databases & Cloud Hosting
+<p align="left">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="AWS EC2" src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="left">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+    <img alt="AWS SSO" src="https://img.shields.io/badge/AWS_SSO-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### 🔌 Integrations
+<p align="left">
+    <img alt="Stripe" src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+    <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
